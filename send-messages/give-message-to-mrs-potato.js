@@ -6,3 +6,4 @@ function giveMessageToMrsPotato(message) {
 }
 
 giveMessageToMrsPotato("Hi Buzz");
+module.exports = giveMessageToMrsPotato;
