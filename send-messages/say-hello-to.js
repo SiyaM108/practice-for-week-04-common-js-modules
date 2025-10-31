@@ -5,3 +5,4 @@ function sayHelloTo(name) {
 }
 
 sayHelloTo("Woody");
+module.exports = sayHelloTo;
